@@ -1,0 +1,35 @@
+    /* Ethan Arrington - last edited Nov 23, 2021 */
+
+
+body {background-image: url("../images/kaunasbg.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+
+.bettercolor {
+    color: gray;
+}
+
+.italics {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.normalfont {
+    font-weight: 300;
+}
+
+.betterheading {
+    font-weight: 25;
+    color: blanchedalmond;
+}
+
+.copywritesign {
+    color: gainsboro;
+    font-weight: 200;
+}
